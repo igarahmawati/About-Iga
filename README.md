@@ -28,8 +28,8 @@ I'm a data professional with expertise in Business Intelligence and predictive m
 
 ### 📫 How to reach me
 
-- [LinkedIn](#) <!-- https://www.linkedin.com/in/iga-rahmawati --> 
-- [Portfolio - 🚧](#) <!--  -->
+- [LinkedIn](https://www.linkedin.com/in/iga-rahmawati) <!-- https://www.linkedin.com/in/iga-rahmawati --> 
+- [Portfolio - 🚧]() <!--  -->
 
 ### 📈 GitHub Stats
 
